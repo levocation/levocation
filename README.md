@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&text=QUOTIENT%27s+Workplace)
 
 ### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=levocation&show_icons=true&theme=tokyonight)
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levocation&langs_count=5&layout=compact&theme=dark)](https://github.com/levocation/levocation)<br>
 C++ GOAT
 
