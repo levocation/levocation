@@ -5,6 +5,8 @@
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levocation&langs_count=5&layout=compact&theme=dark)](https://github.com/levocation/levocation)<br>
 C++ GOAT
 
+[![solvedac badge](https://solvedac-readme-badge.herokuapp.com/api/v1/badge?user=tjsgh5965)](https://github.com/2ykwang/solvedac-readme-badge)
+
 <!--
 **levocation/levocation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
